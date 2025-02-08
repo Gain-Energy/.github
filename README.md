@@ -1,5 +1,6 @@
 # Welcome to Gain.Energy Internal Resources 🚀
 
+
 ## Quick Links
 - [JIRA Board](https://gain-energy.atlassian.net)
 - [Confluence Wiki](https://gain-energy.atlassian.net/wiki)
